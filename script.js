@@ -52,4 +52,8 @@ function processResult(results){
 
 function stopConverting(){
 
+    if (recognition) {
+        recognition.stop();
+    }
+
 }
