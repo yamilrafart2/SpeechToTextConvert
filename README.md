@@ -6,3 +6,4 @@ Este sitio web realiza la transcripción en tiempo real del audio captado a trav
 -   Falta actualizarlo para que la aplicación sea responsiva.
 
 ![App Speech to Text Convert](Preview01.png)
+![App Speech to Text Convert](Preview02.png)
